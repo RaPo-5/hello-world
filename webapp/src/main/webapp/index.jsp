@@ -99,7 +99,7 @@ $(this).parent().find('img').attr("src", newimg);
    <div class="wd">
 <h1> Welcome to  RaPo Restaurant</h1>
 <h4> <i>Order delicious food online, 100% quality, safety and taste assured.</i></h4>
-<h2> Call 8688285051 for reservations</h2>
+<h2> Call 9490940668 for reservations</h2>
 <div class="opt">
 <form action="" method="post">
 <input type="button" value="ORDER NOW">
